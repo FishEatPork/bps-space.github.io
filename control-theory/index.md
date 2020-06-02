@@ -12,6 +12,7 @@ nav_order: 2
 * [Brett Beauregard's Arduino PID Library](http://brettbeauregard.com/blog/2011/04/improving-the-beginners-pid-introduction/) ([Github Repo](https://github.com/br3ttb/Arduino-PID-Library/)) - A series of blog posts about writing a better PID library for Arduino.
 * [Control Bootcamp](https://www.youtube.com/playlist?list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m) - A very thorough video series on optimal control theory.
 * [Stanford EE267 IMU Notes](https://stanford.edu/class/ee267/notes/ee267_notes_imu.pdf) - Some notes from a class on virtual reality. Their choices of hardware is questionable but the math is solid. Section 5 and Appendix A are useful for learning about quaternions.
+* [A practical approach to Kalman filter and how to implement it](http://blog.tkjelectronics.dk/2012/09/a-practical-approach-to-kalman-filter-and-how-to-implement-it/)[Github Repo](https://github.com/TKJElectronics/KalmanFilter) - Pretty detailed article about Kalman filters and how to use them in your code. Includes some C++ code and a library for easy Arduino implementation.
 
 ## Books
 
